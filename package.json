@@ -1,0 +1,18 @@
+{
+  "name": "jansewa-platform",
+  "version": "1.0.0",
+  "description": "JanSewa Citizen Issue Reporting Platform - Full Stack Application",
+  "scripts": {
+    "start": "concurrently \"npm --prefix backend start\" \"npm --prefix frontend start\"",
+    "backend": "npm --prefix backend start",
+    "frontend": "npm --prefix frontend start",
+    "backend:dev": "npm --prefix backend run dev",
+    "dev": "concurrently \"npm --prefix backend run dev\" \"npm --prefix frontend start\""
+  },
+  "keywords": ["jansewa", "citizen", "issue", "reporting"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
