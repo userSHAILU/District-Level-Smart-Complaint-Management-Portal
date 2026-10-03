@@ -377,18 +377,4 @@ Complaint statuses include:
 
 ---
 
-## Future Improvements
-
-- Location-based complaint mapping
-- Mobile application
-- Image upload support
-- Email or SMS notifications
-- Department-based issue assignment
-
----
-
-## Project Type
-
-Academic prototype project developed using the MERN stack to demonstrate a digital solution for civic issue reporting.
-
 
