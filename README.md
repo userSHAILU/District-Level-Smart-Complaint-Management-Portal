@@ -1,13 +1,5 @@
-# JanSewa – Citizen Issue Reporting Platform
+The Smart Public Complaint System is a web-based application designed to help citizens report and track public issues such as water problems, drainage, garbage, potholes, and streetlights. The main problem is that traditional complaint systems are often slow, difficult to track, and lack proper communication between citizens and authorities. The system requires a user-friendly interface, complaint registration, issue details, image/document upload, complaint tracking, status updates, and an admin panel. The proposed solution provides a centralized platform where citizens can submit complaints and monitor their progress. Administrators can view, manage, update, and resolve complaints efficiently. The system was developed using React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for database management. REST APIs connect the frontend and backend. It improves transparency, reduces manual work, and enables faster complaint management.
 
-A simple MERN stack prototype that enables citizens to report public issues and allows admins to manage and resolve those issues.
-
-## Overview
-
-JanSewa is a citizen-focused platform where:
-- **Citizens** can report public issues (potholes, garbage, water leaks, street lights, etc.)
-- **Admins** can review complaints, update their status, and add notes
-- **Citizens** can track their complaints and see updates
 
 ## Tech Stack
 
